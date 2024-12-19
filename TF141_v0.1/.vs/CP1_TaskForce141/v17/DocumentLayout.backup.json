@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|solutionrelative:CP1_TaskForce141\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|solutionrelative:CP1_TaskForce141\\combat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,14 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|solutionrelative:CP1_TaskForce141\\combat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|solutionrelative:CP1_TaskForce141\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\move_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|solutionrelative:CP1_TaskForce141\\move_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E442A25-C969-4B48-9397-0343496D372E}|CP1_TaskForce141\\CP1_TaskForce141.vcxproj|C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat_f.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,77 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "move_map.cpp",
-              "DocumentMoniker": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\move_map.cpp",
-              "RelativeDocumentMoniker": "CP1_TaskForce141\\move_map.cpp",
-              "ToolTip": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\move_map.cpp",
-              "RelativeToolTip": "CP1_TaskForce141\\move_map.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-12T13:20:29.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "combat_f.h",
               "DocumentMoniker": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat_f.h",
               "RelativeDocumentMoniker": "CP1_TaskForce141\\combat_f.h",
               "ToolTip": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat_f.h",
               "RelativeToolTip": "CP1_TaskForce141\\combat_f.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-12T13:17:02.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "combat_f.cpp",
               "DocumentMoniker": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat_f.cpp",
               "RelativeDocumentMoniker": "CP1_TaskForce141\\combat_f.cpp",
               "ToolTip": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat_f.cpp",
               "RelativeToolTip": "CP1_TaskForce141\\combat_f.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-12T13:16:48.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "combat.h",
               "DocumentMoniker": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat.h",
               "RelativeDocumentMoniker": "CP1_TaskForce141\\combat.h",
               "ToolTip": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat.h",
               "RelativeToolTip": "CP1_TaskForce141\\combat.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-11T07:14:15.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "combat.cpp",
               "DocumentMoniker": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat.cpp",
               "RelativeDocumentMoniker": "CP1_TaskForce141\\combat.cpp",
               "ToolTip": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\combat.cpp",
               "RelativeToolTip": "CP1_TaskForce141\\combat.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T07:06:41.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\main.cpp",
               "RelativeDocumentMoniker": "CP1_TaskForce141\\main.cpp",
               "ToolTip": "C:\\Users\\ehddn\\source\\repos\\CP1_TaskForce141\\CP1_TaskForce141\\main.cpp",
               "RelativeToolTip": "CP1_TaskForce141\\main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-10T15:07:45.084Z",
               "EditorCaption": ""

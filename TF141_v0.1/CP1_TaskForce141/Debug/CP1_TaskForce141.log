@@ -1,0 +1,9 @@
+﻿  combat.cpp
+  combat_f.cpp
+  main.cpp
+  move_map.cpp
+  코드를 생성하고 있습니다...
+main.obj : error LNK2019: "void __cdecl move_map(int *,int *)" (?move_map@@YAXPAH0@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+    정의되었으며 잠재적으로 일치할 수 있는 기호에 대한 힌트:
+      "void __cdecl move_map(int *,int *,struct Player *)" (?move_map@@YAXPAH0PAUPlayer@@@Z)
+C:\Users\ehddn\source\repos\CP1_TaskForce141\Debug\CP1_TaskForce141.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
