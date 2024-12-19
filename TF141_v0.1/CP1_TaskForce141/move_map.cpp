@@ -33,7 +33,7 @@ void print_map(int map[5][10], int x, int y) {
     }
 }
 
-void move_map(int* x, int* y) {
+void move_map(int* x, int* y, Player* player) {
     char command;
     int map[5][10] = {
         {EMPTY, EMPTY, EMPTY, EMPTY, BATTLE, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY},
